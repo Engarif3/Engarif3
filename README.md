@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=engarif3&show_icons=true&locale=en" alt="engarif3" width="400" height="170"/></p>
 <h3 align="center">------------------------------------------</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engarif3&" alt="engarif3" width="100%" height="170"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engarif3&" alt="engarif3" width="1000" height="170"  /></p>
