@@ -27,6 +27,6 @@
 
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=engarif3&layout=compact&langs_count=16&theme=dracula" alt="engarif3" width="400" height="170"/></p>
-<h3 align="center">------------------------------------------</h3>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engarif3&layout=compact&langs_count=16&theme=dracula" alt="engarif3" width="1000" height="170"  /></p>
