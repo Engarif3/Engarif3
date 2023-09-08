@@ -12,7 +12,7 @@
 - 📫 How to reach me **arif.aust.eng@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/144ZNv87HufG_Njo3KOQFz8XR-AOkx4aM/view?usp=sharing)
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/144ZNv87HufG_Njo3KOQFz8XR-AOkx4aM/view?usp=sharing" target="_blank">My CV</a>
+
 
 
 
