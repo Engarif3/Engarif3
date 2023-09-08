@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engarif3&label=Profile%20views&color=0e75b6&style=flat" alt="engarif3" /> </p>
 
 - 🌱I’m currently learning **Angular, PHP, Laravel**
-- 🌱I’m currently learning <span style="color:blue;">Angular</span>, <span style="color:blue;">PHP</span>, <span style="color:blue;">Laravel</span>
-
 
 - 👨‍💻 All of my information is available at my [Portfolio / Personal Website](https://md-arifur-rahman-portfolio.netlify.app/)
 
