@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arif.aust.eng@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12R8LLIf12-DGeY25_h_i_yqUsnZDyV1p/view](https://drive.google.com/file/d/144ZNv87HufG_Njo3KOQFz8XR-AOkx4aM/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/144ZNv87HufG_Njo3KOQFz8XR-AOkx4aM/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
