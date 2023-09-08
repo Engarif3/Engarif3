@@ -7,7 +7,7 @@
 
 - 🌱I’m currently learning **Angular, PHP, Laravel**
 
-- 👨‍💻 All of my information is available at my [Portfolio / Personal Website](https://md-arifur-rahman-portfolio.netlify.app/)
+- 👨‍💻 All of my information is available at my [Portfolio/Personal Website](https://md-arifur-rahman-portfolio.netlify.app/)
 
 - 📫 How to reach me **arif.aust.eng@gmail.com**
 
