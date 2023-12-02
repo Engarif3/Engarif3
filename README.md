@@ -48,7 +48,8 @@
 
 <p align="center">
   <!---<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=engarif3&layout=compact&langs_count=16&theme=dracula" alt="engarif3" width="100%" height="170"/>-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engarif3&layout=compact&langs_count=16&theme=dracula&hide=html,CSS,blade,hack" alt="engarif3" width="100%" height="170"/>
+  <!---most used languages -->
+  <!---<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engarif3&layout=compact&langs_count=16&theme=dracula&hide=html,CSS,blade,hack" alt="engarif3" width="100%" height="170"/> -->
 </p>
 <!--- <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=engarif3&layout=compact&langs_count=16&theme=dracula" alt="engarif3" width="400" height="170"/></p> --->
 
