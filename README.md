@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/Engarif3/Engarif3/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Md Arifur Rahman</h1>
-<h3 align="center">A passionate web developer</h3>
+
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engarif3&label=Profile%20views&color=0e75b6&style=flat" alt="engarif3" /> </p>
