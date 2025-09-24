@@ -53,7 +53,8 @@
 <br/>
 <br/>
 <br/>
-### 💻 Skills
+
+<h3 align="left"> 💻 Skills </h3>
 
 **Programming Languages:**  
 <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>Python</kbd> <kbd>PHP</kbd>
