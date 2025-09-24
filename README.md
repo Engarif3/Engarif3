@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engarif3&label=Profile%20views&color=0e75b6&style=flat" alt="engarif3" /> </p>
 
 <!--- 🌱I’m currently learning **Angular, PHP, Laravel**-->
+<p>Welcome to my journey as a Full Stack Developer, where passion and creativity converge to craft compelling web solutions. I am dedicated to solving complex challenges with innovative solutions, driven by the goal of improving user engagement. My adventure in web development is marked by a constant pursuit of learning and growth. Let's explore the possibilities and make meaningful impacts together.</p>
 
 - 👨‍💻 All of my information is available at my [Portfolio/Personal Website](https://md-arifur-rahman-portfolio.netlify.app/)
 
