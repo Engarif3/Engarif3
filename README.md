@@ -57,8 +57,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 <h1 align="left"> 💻 Skills </h3>
 
