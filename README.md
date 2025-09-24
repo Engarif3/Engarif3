@@ -5,7 +5,7 @@
 <h4 align="center" style="font-size:8 px;">A passionate web developer</h4> </h1> 
 
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 20px;"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engarif3&label=Profile%20views&color=0e75b6&style=flat" alt="engarif3" /> </p>
 
