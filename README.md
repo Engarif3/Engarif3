@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-<h3 align="left"> 💻 Skills </h3>
+<h1 align="left"> 💻 Skills </h3>
 
 
 ## Programming Languages
