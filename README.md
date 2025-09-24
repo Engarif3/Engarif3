@@ -48,6 +48,11 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> &nbsp; &nbsp; 
 
 </p>-->
+
+<br/>
+<br/>
+<br/>
+<br/>
 ### 💻 Skills
 
 **Programming Languages:**  
