@@ -22,7 +22,7 @@
 
 
 <br/>
-<h4 align="right">Connect with me:</h4>
+<h4 align="right" style="margin-right:8 px;>Connect with me</h4>
 <p align="right">
 <a href="https://www.linkedin.com/in/engarif3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/engarif3/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/md.arifurr" target="blank">&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.arifurr" height="30" width="40" /></a>
