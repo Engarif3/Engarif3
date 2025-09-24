@@ -20,7 +20,7 @@
 
 <!--- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/144ZNv87HufG_Njo3KOQFz8XR-AOkx4aM/view?usp=sharing)-->
 
-<br/>
+
 <br/>
 <h4 align="right">Connect with me:</h4>
 <p align="right">
