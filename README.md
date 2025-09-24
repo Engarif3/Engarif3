@@ -22,7 +22,7 @@
 <a href="https://www.facebook.com/md.arifurr" target="blank">&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.arifurr" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+ <!---<h3 align="left">Languages and Tools:</h3>
 <p align="left" > 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a> &nbsp; &nbsp; 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a> &nbsp; &nbsp;  </a>
@@ -47,7 +47,27 @@
  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="80" height="80"/> </a> &nbsp; &nbsp;
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> &nbsp; &nbsp; 
 
-</p>
+</p>-->
+### 💻 Skills
+
+**Programming Languages:**  
+<kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>Python</kbd> <kbd>PHP</kbd>
+
+**Frontend:**  
+<kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>Bootstrap</kbd> <kbd>Tailwind</kbd> <kbd>Material UI</kbd> <kbd>ES6</kbd> <kbd>React JS</kbd> <kbd>React Native</kbd> <kbd>Next JS</kbd> <kbd>Redux</kbd> <kbd>Firebase Auth</kbd>
+
+**Backend:**  
+<kbd>Node JS</kbd> <kbd>Express JS</kbd> <kbd>Django</kbd> <kbd>Laravel</kbd> <kbd>Symfony</kbd> <kbd>REST API</kbd> <kbd>JWT</kbd> <kbd>Nginx</kbd> <kbd>GraphQL</kbd> <kbd>Prisma</kbd> <kbd>Mongoose</kbd>
+
+**Databases:**  
+<kbd>MongoDB</kbd> <kbd>MySQL</kbd> <kbd>PostgreSQL</kbd>
+
+**Version Control & Tools:**  
+<kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Figma</kbd> <kbd>Supabase</kbd> <kbd>Vercel</kbd>
+
+**DevOps / Cloud:**  
+<kbd>Docker</kbd> <kbd>Docker Compose</kbd> <kbd>CI/CD</kbd> <kbd>AWS EC2</kbd> <kbd>AWS S3</kbd> <kbd>AWS IAM</kbd>
+
 
 <p align="center">
   <!---<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=engarif3&layout=compact&langs_count=16&theme=dracula" alt="engarif3" width="100%" height="170"/>-->
