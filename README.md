@@ -1,7 +1,9 @@
 
 
 ![logo](https://github.com/Engarif3/Engarif3/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Md Arifur Rahman</h1>
+<h1 align="center">Hi 👋, I'm Md Arifur Rahman</h1> 
+<br/>
+<p>A passionate web developer</p>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
