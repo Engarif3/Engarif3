@@ -56,23 +56,23 @@
 
 <h3 align="left"> 💻 Skills </h3>
 
-**Programming Languages:**  
-<kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>Python</kbd> <kbd>PHP</kbd>
+**Programming Languages**  
+JavaScript • TypeScript • Python • PHP
 
-**Frontend:**  
-<kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>Bootstrap</kbd> <kbd>Tailwind</kbd> <kbd>Material UI</kbd> <kbd>ES6</kbd> <kbd>React JS</kbd> <kbd>React Native</kbd> <kbd>Next JS</kbd> <kbd>Redux</kbd> <kbd>Firebase Auth</kbd>
+**Frontend**  
+HTML5 • CSS3 • Bootstrap • Tailwind • Material UI • ES6 • React JS • React Native • Next JS • Redux • Firebase Auth
 
-**Backend:**  
-<kbd>Node JS</kbd> <kbd>Express JS</kbd> <kbd>Django</kbd> <kbd>Laravel</kbd> <kbd>Symfony</kbd> <kbd>REST API</kbd> <kbd>JWT</kbd> <kbd>Nginx</kbd> <kbd>GraphQL</kbd> <kbd>Prisma</kbd> <kbd>Mongoose</kbd>
+**Backend**  
+Node JS • Express JS • Django • Laravel • Symfony • REST API • JWT • Nginx • GraphQL • Prisma • Mongoose
 
-**Databases:**  
-<kbd>MongoDB</kbd> <kbd>MySQL</kbd> <kbd>PostgreSQL</kbd>
+**Databases**  
+MongoDB • MySQL • PostgreSQL
 
-**Version Control & Tools:**  
-<kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Figma</kbd> <kbd>Supabase</kbd> <kbd>Vercel</kbd>
+**Version Control & Tools**  
+Git • GitHub • Figma • Supabase • Vercel
 
-**DevOps / Cloud:**  
-<kbd>Docker</kbd> <kbd>Docker Compose</kbd> <kbd>CI/CD</kbd> <kbd>AWS EC2</kbd> <kbd>AWS S3</kbd> <kbd>AWS IAM</kbd>
+**DevOps / Cloud**  
+Docker • Docker Compose • CI/CD • AWS (EC2, S3, IAM)
 
 
 <p align="center">
