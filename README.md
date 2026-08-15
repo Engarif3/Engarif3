@@ -39,29 +39,25 @@ A German-learning platform I designed and built solo, end to end: vocabulary, gr
 
 ## 💻 Skills
 
-<div align="center">
-
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,go,python,php" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,go,python,php" height="70" /><br/><br/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,redux,tailwind" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,redux,tailwind" height="70" /><br/><br/>
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql" height="70" /><br/><br/>
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" height="70" /><br/><br/>
 
 **Tools &amp; Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,vercel" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,vercel" height="70" />
 
 <br/>
 
