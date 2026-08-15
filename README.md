@@ -41,23 +41,52 @@ A German-learning platform I designed and built solo, end to end: vocabulary, gr
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,go,python,php" height="70" /><br/><br/>
+<table><tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="50"/><br/>JavaScript</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="50"/><br/>TypeScript</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=go" width="50"/><br/>Go</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="50"/><br/>Python</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=php" width="50"/><br/>PHP</td>
+</tr></table>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,redux,tailwind" height="70" /><br/><br/>
+<table><tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="50"/><br/>React</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="50"/><br/>React&nbsp;Native</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/>Next.js</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="50"/><br/>Redux</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>Tailwind</td>
+</tr></table>
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql" height="70" /><br/><br/>
+<table><tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/>Node.js</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="50"/><br/>Express</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=prisma" width="50"/><br/>Prisma</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=graphql" width="50"/><br/>GraphQL</td>
+</tr></table>
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" height="70" /><br/><br/>
+<table><tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br/>PostgreSQL</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/>MongoDB</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>MySQL</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="50"/><br/>Redis</td>
+</tr></table>
 
 **Tools &amp; Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,vercel" height="70" />
+<table><tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="50"/><br/>Git</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="50"/><br/>GitHub</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br/>Docker</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="50"/><br/>AWS</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br/>Figma</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=vercel" width="50"/><br/>Vercel</td>
+</tr></table>
 
 <br/>
 
