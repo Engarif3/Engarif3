@@ -1,8 +1,6 @@
 <div align="center">
 
-# Md Arifur Rahman
-
-### Full-Stack &amp; Mobile Developer — React · React Native · Node.js
+<img src="banner.svg" width="100%" alt="Md Arifur Rahman — Full-Stack &amp; Mobile Developer" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=engarif3&label=Profile%20views&color=0e75b6&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Engarif3?style=for-the-badge&color=0e75b6&labelColor=181717)

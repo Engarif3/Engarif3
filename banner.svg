@@ -1,0 +1,20 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F766E"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+
+  <path d="M0,175 C220,140 380,205 640,170 C860,140 1000,195 1200,155 L1200,220 L0,220 Z" fill="url(#wave)"/>
+  <path d="M0,195 C260,165 460,215 700,190 C920,168 1040,210 1200,185 L1200,220 L0,220 Z" fill="#ffffff" fill-opacity="0.10"/>
+
+  <text x="600" y="98" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#ffffff">Md Arifur Rahman</text>
+  <text x="600" y="138" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" font-weight="500" fill="#E6FBF8">Full-Stack &amp; Mobile Developer — React · React Native · Node.js</text>
+</svg>
