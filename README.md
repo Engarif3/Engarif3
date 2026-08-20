@@ -37,13 +37,13 @@ A German-learning platform I designed and built solo, end to end: vocabulary, gr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Engarif3/Engarif3/main/Screenshot%202026-08-20%20232733.png" width="100%" alt="Sprachgenie homepage" />
+<img src="https://raw.githubusercontent.com/Engarif3/Engarif3/b6531ab0c563efd97e979aa025d70be7bbca8cc3/Screenshot%202026-08-20%20232733.png" width="100%" alt="Sprachgenie homepage" />
 <br/>
 <sub><b>Homepage</b></sub>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Engarif3/Engarif3/main/Screenshot%202026-08-20%20233507.png" width="100%" alt="Sprachgenie word details view" />
+<img src="https://raw.githubusercontent.com/Engarif3/Engarif3/b6531ab0c563efd97e979aa025d70be7bbca8cc3/Screenshot%202026-08-20%20233507.png" width="100%" alt="Sprachgenie word details view" />
 <br/>
 <sub><b>Word details</b></sub>
 
