@@ -30,8 +30,8 @@ A German-learning platform I designed and built solo, end to end: vocabulary, gr
 |:---:|---|---|
 | 🌐 | [**Sprachgenie-new-frontend**](https://github.com/Engarif3/Sprachgenie-new-frontend) | React + Vite web app — Redux Toolkit, Tailwind, i18n |
 | 📱 | [**sprachgenie-native**](https://github.com/Engarif3/sprachgenie-native) | React Native (Expo) app for Android/iOS, built from the web app and shipped as an installable APK via EAS |
-| ⚙️ | [**Sprcahgenie-new-backend**](https://github.com/Engarif3/Sprcahgenie-new-backend) | Express + TypeScript + Prisma/PostgreSQL API — JWT auth, Redis-backed rate limiting, role-based access |
-| 🤖 | [**sprachgenie-ai**](https://github.com/Engarif3/sprachgenie-ai) | Separate microservice generating stories, paragraphs, and grammar help via LLMs |
+| ⚙️ | [**Sprcahgenie-new-backend**](https://simplegerman.de/backend) | Express + TypeScript + Prisma/PostgreSQL API — JWT auth, Redis-backed rate limiting, role-based access |
+| 🤖 | [**sprachgenie-ai**](https://simplegerman.de/backend) | Separate microservice generating stories, paragraphs, and grammar help via LLMs |
 
 **Live:** [simplegerman.de](https://simplegerman.de)
 
