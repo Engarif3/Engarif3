@@ -33,19 +33,25 @@ A German-learning platform I designed and built solo, end to end: vocabulary, gr
 | ⚙️ | [**Sprcahgenie-new-backend**](https://simplegerman.de/backend) | Express + TypeScript + Prisma/PostgreSQL API — JWT auth, Redis-backed rate limiting, role-based access |
 | 🤖 | [**sprachgenie-ai**](https://simplegerman.de/backend) | Separate microservice generating stories, paragraphs, and grammar help via LLMs |
 
-**Live:** [simplegerman.de](https://simplegerman.de)
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-simplegerman.de-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://simplegerman.de)
+
+</div>
 
 <div align="center">
 
+<div style="margin-bottom:5px;">
 <img src="https://raw.githubusercontent.com/Engarif3/Engarif3/b6531ab0c563efd97e979aa025d70be7bbca8cc3/Screenshot%202026-08-20%20232733.png" width="100%" alt="Sprachgenie homepage" />
 <br/>
 <sub><b>Homepage</b></sub>
+</div>
 
-<br/><br/>
-
+<div>
 <img src="https://raw.githubusercontent.com/Engarif3/Engarif3/b6531ab0c563efd97e979aa025d70be7bbca8cc3/Screenshot%202026-08-20%20233507.png" width="100%" alt="Sprachgenie word details view" />
 <br/>
 <sub><b>Word details</b></sub>
+</div>
 
 </div>
 
